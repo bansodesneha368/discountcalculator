@@ -1,0 +1,66 @@
+.container{
+    height: 400px;
+    width: 550px;
+    background-color: rgb(4, 71, 73);
+    margin-left: 400px;
+    margin-top: 150px;
+    border-radius: 20px;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+p{
+    font-size:medium;
+    padding-left: 15px;
+}
+label{
+    margin-left: 15px;
+    font-size: large;
+    margin-top: 15px;
+}
+input{
+    margin-left: 50px;
+   color: rgb(4, 60, 62);
+    width: 200px;
+    padding: 7px;
+    margin-top: 15px;
+    font-size: large;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: burlywood;
+}
+button{
+    border-radius: 10px;
+    font-size: large;
+    text-align: center;
+    margin-left: 150px;
+    color: rgb(1, 26, 27);
+    margin-top: 10px;
+    padding: 10px;
+}
+*{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+#label1{
+    margin-left: 97px;
+}
+#footer{
+   float: right;
+   margin-right: 25px;
+}
+#i1{
+  margin-right:10px ;  
+}
+#i2{
+    margin-right:10px;  
+  }
+  #i3{
+    margin-right:10px;  
+  }
+  #i4{
+    margin-right:10px;  
+  }
